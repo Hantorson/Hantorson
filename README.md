@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hantorson - I'm just here to learn
+- 👋 Hi, I’m @Hantorson - I'm new to this and I'm here to learn
 - 👀 I’m interested in ... upskilling
 - 🌱 I’m currently learning ... Python
 - 💞️ I want to know more about ... DevOps, GitHub, product management
