@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hantorson - I'm just here to learn
 - 👀 I’m interested in ... upskilling
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to learn more about ... DevOps, GitHub, product management
+- 💞️ I want to know more about ... DevOps, GitHub, product management
 - 📫 How to reach me ... https://www.linkedin.com/in/hannahvrobson/
 
 <!---
