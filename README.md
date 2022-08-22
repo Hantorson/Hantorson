@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Hantorson - I'm new to this and I'm here to learn
-- 👀 I’m interested in ... upskilling
-- 🌱 I’m currently learning ... Python
-- 💞️ I want to know more about ...Everything!
-- 📫 How to reach me ... https://www.linkedin.com/in/hannahvrobson/
+Javascript, Node js, react developer
 
 <!---
 Hantorson/Hantorson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
